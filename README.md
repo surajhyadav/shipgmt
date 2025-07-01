@@ -2,3 +2,4 @@
 2. Open the Xampp and start the Apace server
 3. open browser and hit the URL localhost/shipgmt/index.php 
 4. Boom the website is live
+5. New changes are made
